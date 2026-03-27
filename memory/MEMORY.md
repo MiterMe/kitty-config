@@ -1,0 +1,2 @@
+- [Kitty Migration](kitty-migration.md) — 从 wezterm 迁移到 kitty 的项目背景和目标
+- [Tmux Key Bindings](tmux-key-bindings.md) — tmux 按键绑定语法规则和调试方法
